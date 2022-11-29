@@ -1,0 +1,20 @@
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: gray;
+}
+#login_box{
+    width: 260px;     
+    background-color: white;
+    border: 1px gold;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+}
+#btn{
+    box-shadow: 1px 1px 1px;
+}
